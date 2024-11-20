@@ -1,0 +1,4 @@
+face_recognition
+cvzone #cv2+numpy -> using to use its advantage of fancy ractangle
+opencv-python==4.5.4.60
+firebase_admin
