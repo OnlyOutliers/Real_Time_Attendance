@@ -9,7 +9,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 import threading
-
+#  fetch
 cred = credentials.Certificate("serviceaccountkey.json")
 firebase_admin.initialize_app(cred,{
     'databaseURL':"https://realtimeattendence-b281a-default-rtdb.firebaseio.com/"
