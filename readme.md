@@ -33,7 +33,7 @@ pip install cvzone
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rittik2002/Real_Time_Attendance.git
+   git clone https://github.com/OnlyOutliers/Real_Time_Attendance
    ```
 
 2. **Firebase Configuration**
@@ -116,4 +116,4 @@ pip install cvzone
 5. Open a Pull Request
 
 
-Project Link: [https://github.com/Rittik2002/Real_Time_Attendance](https://github.com/Rittik2002/Real_Time_Attendance)
+Project Link: [https://github.com/OnlyOutliers/Real_Time_Attendance](https://github.com/OnlyOutliers/Real_Time_Attendance)
